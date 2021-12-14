@@ -4,4 +4,30 @@
     height: 300px;
     width: 300px;
     display: inline-block;
+    position: relative;
+    left: 30px;
+    right: 25px;
+    
+}
+
+.principal1{
+    background-color: aquamarine;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    left: 30px;
+    top: 300px;
+    right: 25px;
+}
+
+.principal2{
+    background-color: aquamarine;
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    left: 30px;
+    top: 600px;
+    right: 25px;
 }
